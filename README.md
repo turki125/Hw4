@@ -2,7 +2,7 @@
 
 
 
-<img width="200" alt="Simulator Screenshot - iPhone 16 Pro - 2026-08-27 at 14 36 48" src="https://github.com/user-attachments/assets/0e8b8f58-8456-407a-ad42-d9cc60bb95b9" />
+<img width="200" alt="Simulator Screenshot - iPhone 16 Pro - 2026-08-27 at 14 39 13" src="https://github.com/user-attachments/assets/02f804a0-0198-468f-939f-b4af39f8e91b" />
 
 ## Getting Started
 
